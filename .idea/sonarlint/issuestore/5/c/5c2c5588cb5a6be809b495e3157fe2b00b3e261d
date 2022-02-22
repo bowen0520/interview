@@ -1,0 +1,39 @@
+
+K
+java:S3740É"/Provide the parametrized type for this generic.(¹­Ÿõûÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "num".(Ö°ð«ùÿÿÿÿ
+T
+java:S1854Å"8Remove this useless assignment to local variable "list".(Œìíòùÿÿÿÿ
+C
+java:S1481"(Remove this unused "num" local variable.(Ö°ð«ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ñõÉˆùÿÿÿÿ
+C
+java:S1612Ë",Replace this lambda with a method reference.(€¶Öé
+F
+java:S1611Ë"/Remove the parentheses around the "v" parameter(€¶Öé
+C
+java:S1602Ë",Remove useless curly braces around statement(€¶Öé
+V	java:S125"<This block of commented-out lines of code should be removed.(ºûŠ–ÿÿÿÿÿ
+T
+java:S1854¹"8Remove this useless assignment to local variable "list".(Œìíòùÿÿÿÿ
+o
+java:S1488*"YImmediately return this expression instead of assigning it to the temporary variable "i".(ºý¡
+V	java:S125"<This block of commented-out lines of code should be removed.(ËŒ×¶ûÿÿÿÿ
+f
+java:S1764‰"JCorrect one of the identical sub-expressions on both sides of operator ">"(—‚Ñâÿÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûƒè¶
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(‚‰ãåûÿÿÿÿ
+s	java:S1355"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‘‹è¬
+n	java:S127¢"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿¢‰ú
+T
+java:S1854¿"8Remove this useless assignment to local variable "list".(Œìíòùÿÿÿÿ
+e
+java:S1764|"JCorrect one of the identical sub-expressions on both sides of operator ">"(¢ÒÎµøÿÿÿÿ
+U
+java:S1854Î"9Remove this useless assignment to local variable "index".(ÜÆå‘ýÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(‚‰ãåûÿÿÿÿ
